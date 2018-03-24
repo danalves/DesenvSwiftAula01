@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AC250001206674340082E15E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC25FFFF206674340082E15E /* LaunchScreen.storyboard */; };
+		AC2500092066A23B0082E15E /* CustomImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2500082066A23B0082E15E /* CustomImageView.swift */; };
 		AC25FFF7206674340082E15E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC25FFF6206674340082E15E /* AppDelegate.swift */; };
 		AC25FFF9206674340082E15E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC25FFF8206674340082E15E /* ViewController.swift */; };
 		AC25FFFC206674340082E15E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC25FFFA206674340082E15E /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* Begin PBXFileReference section */
 		AC250000206674340082E15E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC250002206674340082E15E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC2500082066A23B0082E15E /* CustomImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomImageView.swift; sourceTree = "<group>"; };
 		AC25FFF3206674340082E15E /* DesenvSwiftAula01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesenvSwiftAula01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC25FFF6206674340082E15E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC25FFF8206674340082E15E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				AC25FFF6206674340082E15E /* AppDelegate.swift */,
 				AC25FFF8206674340082E15E /* ViewController.swift */,
 				AC25FFFA206674340082E15E /* Main.storyboard */,
+				AC2500082066A23B0082E15E /* CustomImageView.swift */,
 				AC25FFFD206674340082E15E /* Assets.xcassets */,
 				AC25FFFF206674340082E15E /* LaunchScreen.storyboard */,
 				AC250002206674340082E15E /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC25FFF9206674340082E15E /* ViewController.swift in Sources */,
+				AC2500092066A23B0082E15E /* CustomImageView.swift in Sources */,
 				AC25FFF7206674340082E15E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
